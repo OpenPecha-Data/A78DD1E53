@@ -1,0 +1,26 @@
+segment_sources:
+  PC1E8141E:
+    type: origin_type
+    relation: translation
+    language: en
+  P7799F42C:
+    type: origin_type
+    relation: translation
+    language: zh
+  P1780A596:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  f64109ad4f9f4b888587c5afe78ccf54:
+    PC1E8141E: aab1c8ca461e4d79b180a091340819e6
+    P7799F42C: de15a66455654c82a7550d9b1579986a
+    P1780A596: 093583e5baa044b390f663b61f4cec07
+  16e0cba9f40f4d2d9e75cf09bec49375:
+    PC1E8141E: b3b6a89710d24f2d9e1f51866cfaaab7
+    P7799F42C: 372e8ee36ada47279c1f8e3695c8a0c8
+    P1780A596: e2012151319741f2a89f56dfd01d0db3
+  be2011a9fc454ec396a036cb4bd025dc:
+    PC1E8141E: 5d9caf93f9664270a0c518904fa55249
+    P7799F42C: e013b70111024eb6946d451af3c312a3
+    P1780A596: 98efa6f50312410baa13d9edca58a758
